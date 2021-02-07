@@ -1,0 +1,50 @@
+#header{
+     text-align: center;
+     height:10%;
+     background: aqua;
+}
+#navbar{
+     float:right;
+     background:rosybrown;
+     padding:0px;
+     position:static;
+     
+}
+ul{
+     list-style-type: none;
+     padding: 0px;
+}
+li{
+     display: inline-block;
+     border: 2px solid black;
+     margin:0px;
+     font-size: 20px;
+     margin-right: 20px;
+}
+body{
+     padding: 0 auto;
+}
+.box{
+     border: 3px solid black;
+     text-align: center;
+}
+#para1{
+     width:20%;
+     background: chartreuse;
+     display: inline-block;
+}
+#para2{
+     height:10%;
+     background:crimson;
+     width:15%;
+     display: inline-block;
+}
+#para3{
+     width:20%;
+     background: darkcyan;
+     float:right;
+     position: relative;
+     top:100px;
+     left:100px;
+     
+}

@@ -1,0 +1,85 @@
+
+body{
+    background-image: url("../images/lumbini.jpg");
+    background-size: cover;
+}
+.pashu{
+    display: inline-block;
+    background: black;
+    padding:5px;
+   background-size: cover;
+   border-radius:100px;
+}
+
+td{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: rgb(1, 1, 2);
+}
+.tab{
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid rgba(133, 14, 14, 0);
+    background-color: rgba(240, 245, 238, 0.4);
+}
+.para1{
+    display: inline-block;
+    width:40%;
+    
+}
+
+.para2{
+display:inline-block;
+width:40%;
+background-color: rgba(240, 245, 238, 0.4);
+margin-top:100px;
+font-weight: bold;
+}
+.box{
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    text-align:center;
+    border-radius:20px;
+}
+h1{
+    color:yellow;
+}
+nav ul li:hover{
+    color:white;
+    background-color: rgb(59, 172, 59);
+}
+ul{
+    width:100%;
+    position:absolute;
+    float: right;
+    margin-right: 90px;
+}
+li{
+     color:white;
+     float:right;
+     display: inline-block;
+     background: black;
+     padding:0px;
+     border-style: solid;
+   
+    border-width:1px;
+     padding:5 4%;
+     
+}
+nav{
+    margin-right: 100px;
+}
+.para3{
+    margin-left: 83%;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color: red;
+    position: sticky;
+}
+.colr{
+    background-color: red;
+    color: rgb(252, 248, 248);
+    text-decoration: none
+}
