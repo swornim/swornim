@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Swornim Shrestha</h1>
 <h3 align="center"></h3>
 
