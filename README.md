@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"](https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif)/>
+  <img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Swornim Shrestha</h1>
